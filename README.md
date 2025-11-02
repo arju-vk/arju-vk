@@ -2,7 +2,7 @@
 
 ## <B> Full Stack Developer | AI Enthusiast </B>
 
-I'm a passionate full-stack developer with a keen interest in artificial intelligence and machine learning. I love building end-to-end applications that solve real-world problems and exploring how AI can make software smarter and more intuitive.
+I'm a passionate Full-Stack Developer with a strong interest in Artificial Intelligence and Machine Learning. I enjoy building end-to-end applications that solve real-world problems and exploring how AI can make software smarter, more efficient, and user-friendly.
 
 ###  What I'm About ⚡
 <div>

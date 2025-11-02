@@ -67,3 +67,6 @@ I'm a passionate Full-Stack Developer with a strong interest in Artificial Intel
 <img align="" alt="code" width=200 src= "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 </div>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>

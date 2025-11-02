@@ -4,7 +4,7 @@
 
 I'm a passionate Full-Stack Developer with a strong interest in Artificial Intelligence and Machine Learning. I enjoy building end-to-end applications that solve real-world problems and exploring how AI can make software smarter, more efficient, and user-friendly.
 
-###  What I'm About ⚡
+## <B> What I'm About ⚡</B>
 <div>
 🖥️ Building scalable full-stack applications. 
 🤖 Exploring AI/ML technologies and integrations. 

@@ -19,7 +19,7 @@ I'm a passionate full-stack developer with a keen interest in artificial intelli
 # 🗺️ GitHub Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-vk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<img align="right" alt="code" width=200 src= "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
+
 
 # 🐍 Let's Eat !
 <picture>
@@ -40,4 +40,8 @@ I'm a passionate full-stack developer with a keen interest in artificial intelli
 #  Ohh... I See You 🔎
 [![](https://visitcount.itsvg.in/api?id=arju-vk&icon=8&color=1)](https://visitcount.itsvg.in)
 
+
+## Test
+<img align="" alt="code" width=200 src= "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 </div>
+

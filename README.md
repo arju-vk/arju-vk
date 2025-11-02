@@ -7,6 +7,9 @@
 # 📊 GitHub Langugaes
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-vk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# Game
+![snake gif](https://github.com/arju-vk/arju-vk/blob/output/github-snake-dark.svg)
+
 ---
 # 👀 No of Visitors
 [![](https://visitcount.itsvg.in/api?id=arju-vk&icon=8&color=1)](https://visitcount.itsvg.in)

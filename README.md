@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHg1bDk4aTNwdGliYjg2ZnF2N25qZTdxdzR0a25mbjdxajd2OHhsayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JEBhwXKovOVV7C8VOI/giphy.gif" width="250px"></a>
+
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&duration=4500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+World+!++Welcome+%F0%9F%91%8B;Where+Precision+Meets+Performance+.;Developer+by+Day.+;Dreamer+by+Night.+;Creator+Always.;Repeat" alt="Typing SVG" /></a>
@@ -60,6 +60,7 @@ I'm a passionate Full-Stack Developer with a strong interest in Artificial Intel
 <h3> <B>
    
 **` Ohh... I See You 🔎`** </B> </h3>
+
 
 #
 [![](https://visitcount.itsvg.in/api?id=arju-vk&icon=8&color=1)](https://visitcount.itsvg.in)

@@ -65,12 +65,16 @@ I'm a passionate Full-Stack Developer with a strong interest in Artificial Intel
 #
 [![](https://visitcount.itsvg.in/api?id=arju-vk&icon=8&color=1)](https://visitcount.itsvg.in)
 
+<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="120" />
 
-##  On Testing
-<!--<img align="" alt="code" width=200 src= "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
-</div>-->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&pause=1000&color=B30000&center=true&vCenter=true&random=true&width=435&lines=Copyright+%C2%A9+2025+arju-vk.+" alt="Typing SVG" /></a>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />

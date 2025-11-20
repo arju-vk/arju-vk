@@ -57,9 +57,7 @@ I'm a passionate Full-Stack Developer with a strong interest in Artificial Intel
 </picture>
 
 
-<!--<h3> <B>     
-  
-  **` Ohh... I See You 🔎`** </B> </h3> -->
+
 
  
 
